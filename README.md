@@ -8,7 +8,7 @@ EventHub is a web application that allows users to create and join various event
 
 - Join events: Users can browse and join events created by other users, allowing them to participate in a wide range of activities.
 
-- Chat integration with GPT: The application incorporates a chat functionality powered by GPT (Generative Pre-trained Transformer), enabling users to communicate with each other within the platform.
+- Chat integration with GPT: The application incorporates a chat functionality powered by GPT (Generative Pre-trained Transformer), improving user experience.
 
 - Automatic email notifications: Event participants receive automatic email notifications, providing updates and reminders about upcoming events. This feature is implemented using the Gmail API.
 
